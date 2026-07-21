@@ -1,0 +1,94 @@
+{
+  "apps": [
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.tarot",
+      "name": "Tarot Draw Logger",
+      "tagline": "A quiet journal for your daily draw.",
+      "accentHex": "#B23A2B",
+      "iconURL": null,
+      "category": "Lifestyle",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.chorewheel",
+      "name": "Home Chore Wheel",
+      "tagline": "Spin the wheel, split the chores.",
+      "accentHex": "#2F8F57",
+      "iconURL": null,
+      "category": "Utilities",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.renewals",
+      "name": "Renewals Timeline",
+      "tagline": "The next 90 days of life admin, at a glance.",
+      "accentHex": "#B96E00",
+      "iconURL": null,
+      "category": "Utilities",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.recipecards",
+      "name": "Recipe Card Digitizer",
+      "tagline": "Keep your handwritten cards, forever.",
+      "accentHex": "#12787C",
+      "iconURL": null,
+      "category": "Food & Drink",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.gift",
+      "name": "Seasonal Gift Planner",
+      "tagline": "Plan gifts together, no accounts.",
+      "accentHex": "#A62639",
+      "iconURL": null,
+      "category": "Lifestyle",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.explorer",
+      "name": "Walking Explorer",
+      "tagline": "Uncover the map as you walk.",
+      "accentHex": "#5B7A00",
+      "iconURL": null,
+      "category": "Health & Fitness",
+      "published": false
+    },
+    {
+      "appStoreID": "6790478529",
+      "bundleID": "com.mosessmith.kept",
+      "name": "Kept: Receipts & Warranty",
+      "tagline": "Proof, serials & expiry alerts.",
+      "accentHex": "#E24E1B",
+      "iconURL": null,
+      "category": "Utilities",
+      "published": true
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.pip",
+      "name": "Pip",
+      "tagline": "TODO: one-line tagline from the PRD.",
+      "accentHex": "#4C5E8A",
+      "iconURL": null,
+      "category": "Utilities",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.bluehour",
+      "name": "Blue Hour",
+      "tagline": "Remaining time, as remaining light.",
+      "accentHex": "#33648A",
+      "iconURL": null,
+      "category": "Productivity",
+      "published": false
+    }
+  ]
+}
