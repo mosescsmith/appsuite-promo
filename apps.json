@@ -71,14 +71,14 @@
       "published": true
     },
     {
-      "appStoreID": null,
+      "appStoreID": "6791684356",
       "bundleID": "com.mosessmith.pip",
-      "name": "Pip",
-      "tagline": "TODO: one-line tagline from the PRD.",
-      "accentHex": "#4C5E8A",
+      "name": "Pip: Tarot Journal & Log",
+      "tagline": "A quiet journal for your daily draw.",
+      "accentHex": "#B23A2B",
       "iconURL": null,
-      "category": "Utilities",
-      "published": false
+      "category": "Lifestyle",
+      "published": true
     },
     {
       "appStoreID": null,
@@ -88,6 +88,16 @@
       "accentHex": "#33648A",
       "iconURL": null,
       "category": "Productivity",
+      "published": false
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.townstoic",
+      "name": "TownStoic",
+      "tagline": "TODO: one-line tagline from the PRD.",
+      "accentHex": "#4C5E8A",
+      "iconURL": null,
+      "category": "Utilities",
       "published": false
     }
   ]
