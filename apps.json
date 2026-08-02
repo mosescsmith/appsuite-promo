@@ -81,14 +81,14 @@
       "published": true
     },
     {
-      "appStoreID": null,
+      "appStoreID": "6793211925",
       "bundleID": "com.mosessmith.bluehour",
-      "name": "Blue Hour",
+      "name": "Blue Hour: Visual Timer",
       "tagline": "Remaining time, as remaining light.",
       "accentHex": "#33648A",
       "iconURL": null,
       "category": "Productivity",
-      "published": false
+      "published": true
     },
     {
       "appStoreID": null,
