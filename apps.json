@@ -91,13 +91,23 @@
       "published": true
     },
     {
-      "appStoreID": null,
+      "appStoreID": "6799158061",
       "bundleID": "com.mosessmith.townstoic",
-      "name": "TownStoic",
-      "tagline": "TODO: one-line tagline from the PRD.",
-      "accentHex": "#4C5E8A",
+      "name": "Town Stoic: One Card a Day",
+      "tagline": "The Stoics, one line a day.",
+      "accentHex": "#8C2F1B",
       "iconURL": null,
-      "category": "Utilities",
+      "category": "Lifestyle",
+      "published": true
+    },
+    {
+      "appStoreID": "6756835111",
+      "bundleID": "com.headsense.app",
+      "name": "HeadSense: Migraine Tracker",
+      "tagline": "A headache diary that works in the dark.",
+      "accentHex": "#7FA886",
+      "iconURL": null,
+      "category": "Health & Fitness",
       "published": false
     }
   ]
