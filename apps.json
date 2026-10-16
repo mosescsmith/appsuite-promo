@@ -108,6 +108,36 @@
       "accentHex": "#7FA886",
       "iconURL": null,
       "category": "Health & Fitness",
+      "published": true
+    },
+    {
+      "appStoreID": "6759228057",
+      "bundleID": "com.mosessmith.drift",
+      "name": "Drift: Things To Do Nearby",
+      "tagline": "Real places near you, nothing made up.",
+      "accentHex": "#FFC400",
+      "iconURL": null,
+      "category": "Travel",
+      "published": true
+    },
+    {
+      "appStoreID": "6748658545",
+      "bundleID": "com.gymini.app",
+      "name": "Gymini: Quick Workouts",
+      "tagline": "Two, five or ten minutes. Works with no signal.",
+      "accentHex": "#D5E24A",
+      "iconURL": null,
+      "category": "Health & Fitness",
+      "published": true
+    },
+    {
+      "appStoreID": "6763944708",
+      "bundleID": "com.mosessmith.HookPoint",
+      "name": "HookPoint: Fishing Companion",
+      "tagline": "Tides, water and weather for the shore you picked.",
+      "accentHex": "#B8336A",
+      "iconURL": null,
+      "category": "Sports",
       "published": false
     }
   ]
