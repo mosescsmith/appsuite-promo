@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "version": 2,
+  "updatedAt": "2026-10-11T12:00:00Z",
+  "text": [
+    {
+      "id": "google/gemini-2.5-flash-lite",
+      "timeoutSeconds": 30,
+      "retryOnTimeout": true,
+      "maxTokens": 2000,
+      "temperature": 0.7
+    },
+    {
+      "id": "openai/gpt-oss-20b",
+      "timeoutSeconds": 30,
+      "retryOnTimeout": true,
+      "maxTokens": 2000,
+      "temperature": 0.7
+    },
+    {
+      "id": "mistralai/mistral-nemo",
+      "timeoutSeconds": 30,
+      "retryOnTimeout": true,
+      "maxTokens": 2000,
+      "temperature": 0.7
+    },
+    {
+      "id": "alibaba/qwen3-32b",
+      "timeoutSeconds": 30,
+      "retryOnTimeout": true,
+      "maxTokens": 2000,
+      "temperature": 0.7
+    }
+  ],
+  "vision": [
+    {
+      "id": "google/gemini-2.5-flash-lite",
+      "timeoutSeconds": 60,
+      "retryOnTimeout": false,
+      "maxTokens": 4000,
+      "temperature": 0.7
+    },
+    {
+      "id": "google/gemini-2.5-flash",
+      "timeoutSeconds": 60,
+      "retryOnTimeout": false,
+      "maxTokens": 8000,
+      "temperature": 0.7
+    },
+    {
+      "id": "anthropic/claude-haiku-4.5",
+      "timeoutSeconds": 60,
+      "retryOnTimeout": false,
+      "maxTokens": 8000,
+      "temperature": 0.7
+    }
+  ]
+}
