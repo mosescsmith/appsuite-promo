@@ -138,6 +138,16 @@
       "accentHex": "#B8336A",
       "iconURL": null,
       "category": "Sports",
+      "published": true
+    },
+    {
+      "appStoreID": null,
+      "bundleID": "com.mosessmith.handitover",
+      "name": "Hand It Over",
+      "tagline": "Offline party games for one phone.",
+      "accentHex": "#4C5E8A",
+      "iconURL": null,
+      "category": "Games",
       "published": false
     }
   ]
