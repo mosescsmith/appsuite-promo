@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "updatedAt": "2026-10-20T21:30:00Z",
+  "version": 4,
+  "updatedAt": "2026-10-21T18:00:00Z",
   "text": [
     {
       "id": "openai/gpt-6-luna",
-      "timeoutSeconds": 30,
-      "retryOnTimeout": true,
+      "timeoutSeconds": 45,
+      "retryOnTimeout": false,
       "maxTokens": 2000,
       "temperature": 0.7
     },
